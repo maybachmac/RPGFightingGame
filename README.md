@@ -11,6 +11,7 @@ A C++ console-based object-oriented fighting game where animals from various hab
 - 🧠 **Dynamic Combat Arena**: Two fighters engage in a round-by-round battle until one is defeated, handled by the `Arena` class.
 - 🧭 **Habitat & Zoo Management**: Animals are grouped by habitat, then stored in a larger `Zoo` container with functionality like `raiseRacket()` and `loadFromFile()`.
 - 📂 **File Loading**: Animal data including name, type, habitat, attack power, and health is read from a `.txt` file.
+- INTERFACE USAGE
 
 ---
 
