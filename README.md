@@ -76,6 +76,10 @@ Fighter 2 wins!
 - Code is fully separated into headers and source files for scalability
 - Works with any number of animals or habitats loaded via the file
 
+
+loom video
+https://www.loom.com/share/364f91dfae2249a1865be560cab7daa8?sid=de685411-457d-4552-8880-0ff72393e829
+
 ---
 
 ## 📄 License
